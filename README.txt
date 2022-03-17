@@ -1,6 +1,8 @@
 
 CS2006 Python 2 Project
 
+Data folder was too large to be added to git.
+
 Prerequisites:
 
 This project requires the use of pandas, matplotlib, geopy, and folium.
