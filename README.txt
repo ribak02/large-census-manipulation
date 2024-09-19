@@ -1,9 +1,9 @@
 
-CS2006 Python 2 Project
+# Python Project
 
 Data folder was too large to be added to git.
 
-Prerequisites:
+## Prerequisites:
 
 This project requires the use of pandas, matplotlib, geopy, and folium.
 
@@ -38,7 +38,7 @@ There should be 3 zip archives included within the "data" directory.
 To begin the analysis of the data used in the project, unzip the census2011_refined.zip archive.
 If this file is not included, follow the instructions given in the "Quality Control and Data Refinement" of this report.
 
-Run the Analysis:
+## Run the Analysis:
 This report is a Jupyter Notebook file located in "code/census2011.ipynb", to open this file:
 - Access the "code" directory from the terminal.
 - Type "jupyter-notebook".
